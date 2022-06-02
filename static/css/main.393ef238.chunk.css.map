@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,qBAAsB,CACvB,GAGC,iBAAkB,CACnB,KAGC,iBAAkB,CACnB,QAGC,eAAgB","file":"main.393ef238.chunk.css","sourcesContent":["body {\r\n  background-color: #eee;\r\n}\r\n\r\nh1 {\r\n  text-align: center;\r\n}\r\n\r\nspan {\r\n  padding-left: 10px;\r\n}\r\n\r\n.d-grid {\r\n  margin-top: 50px;\r\n}\r\n"]}
